@@ -147,29 +147,31 @@ module.exports = {
 ╰─➤ ${grpPrefixBold}
 » 🕐 𝐓𝐈𝐌𝐄  › ${timeBold}
 » 📆 𝐃𝐀𝐓𝐄  › ${dateBold}
-» 👑 𝐎𝐖𝐍𝐄𝐑 › ${ownerBold}
+» 👑 𝐎𝐖𝐍𝐄𝐑 › 
+⚛️ ${ownerBold}
 » ⚡ 𝐂𝐌𝐃𝐒  › ${totalCmdsBold}
 » ⚛️ 𝐕𝐄𝐑   › 𝐕𝟐 • 𝐕𝟑 • 𝐕𝟓
 » ✅ 𝐒𝐓𝐀𝐓𝐔𝐒 › 𝐀𝐂𝐓𝐈𝐕𝐄
 ───────────────
 ╭─ 🔗 𝐆𝐈𝐓𝐇𝐔𝐁 ─╮
-╰➤ [ 𝐋𝐈𝐍𝐊 ]
+╰➤ [ https://github.com/siyam404-bot/siyam-V2-V5-bot-.git ]
 ───────────────
 🧚‍♀️𝗡𝗜𝗝𝗛𝗨𝗠 𝗖𝗛𝗔𝗧𝗕𝗢𝗧`;
 
-      const design2 = `❖ ── [ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐈𝐍𝐅𝐎 ] ── ❖
+      const design2 = `❖ ─ [ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐈𝐍𝐅𝐎 ] ─ ❖
 
-⚡ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐏𝐑𝐄𝐅𝐈𝐗 : ➜ [ ${sysPrefixBold} ]
-💬 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐏𝐑𝐄𝐅𝐈𝐗 : ── ❖ ${grpPrefixBold} ❖── 
+⚡ 𝐏𝐑𝐄𝐅𝐈𝐗 : ➜ [ ${sysPrefixBold} ]
+💬 𝐆𝐑𝐎𝐔𝐏 : ── ❖ ${grpPrefixBold} ❖── 
 ⏰ 𝐓𝐈𝐌𝐄 : ${timeBold}
 📅 𝐃𝐀𝐓𝐄 : ${dateBold}
-👑 𝐎𝐖𝐍𝐄𝐑 : ${ownerBold}
+👑 𝐎𝐖𝐍𝐄𝐑 : 
+⚛️ ${ownerBold}
 📊 𝐓𝐎𝐓𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 : ${totalCmdsBold}
 ⚛️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 𝐕𝟐 • 𝐕𝟑 • 𝐕𝟓
 ✅ 𝐒𝐓𝐀𝐓𝐔𝐒 : 𝐀𝐂𝐓𝐈𝐕𝐄
 ───────────────
 ╭─ 🔗 𝐆𝐈𝐓𝐇𝐔𝐁 ─╮
-╰➤ [ 𝐋𝐈𝐍𝐊 ]
+╰➤ [ https://github.com/siyam404-bot/siyam-V2-V5-bot-.git ]
 ───────────────────
 ⚛️ 𝐍𝐈𝐉𝐇𝐔𝐌 𝐂𝐇𝐀𝐓𝐁𝐎𝐓`;
 
