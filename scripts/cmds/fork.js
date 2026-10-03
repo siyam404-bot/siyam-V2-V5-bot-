@@ -84,7 +84,7 @@ https://github.com/siyam404-bot/siyam-V2-V5-bot-.git`;
 `🚨 𝐍𝐄𝐖 𝐅𝐎𝐑𝐊 𝐔𝐏𝐃𝐀𝐓𝐄
 ➤ 𝐍𝐞𝐰 𝐅𝐮𝐧 & 𝐔𝐬𝐞𝐟𝐮𝐥 𝐂𝐌𝐃𝐒 
 😼 𝐔𝐒𝐄 𝐈𝐓
-😁 𝐓𝐇𝐄𝐍 𝐊𝐍𝐎𝐖! 
+🤮 𝐓𝐇𝐄𝐍 𝐊𝐍𝐎𝐖! 
 
 🔗 𝐆𝐢𝐭𝐇𝐮𝐛
 https://github.com/siyam404-bot/siyam-V2-V5-bot-.git`;
