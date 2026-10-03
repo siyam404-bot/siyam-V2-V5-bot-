@@ -1,10 +1,3 @@
-<!-- 💖 CUTE ANIMATED WELCOME CHARACTERS & FLOATING BANNER (TOP) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyZG9wbXR6Znprbjg3dW4wOHdycWtzbjAwZHRrZGFycHNrbXhhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="100" title="Cute Cat Welcome">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=✨+WELCOME+TO+MY+PROFILE+✨;🎉+ENJOY+YOUR+VISIT!+🎉;💖+THANKS+FOR+STOPPING+BY!+💖" alt="Welcome Animated Text">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0YnpneGV2OXlhZjEydTF5bzhxMHB3YTZ0ZXRxOHRzMWdyOHBweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C21GGDOpKT6Z4VuXyn/giphy.gif" width="100" title="Cute Dancing Character">
-</p>
-
 <!-- 🔥 NEON BANNER -->
 <p align="center">
   <img src="https://i.imgur.com/C5LX7BN.gif" width="100%">
@@ -91,7 +84,7 @@ ______________________________________
 
 ## 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
-### 🔵 𝐅𝐀𝐂EB𝐎𝐎𝐊
+### 🔵 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
 <a href="https://facebook.com/61590360434650">
 <img src="https://img.shields.io/badge/Facebook-ff0000?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
@@ -123,15 +116,7 @@ D&fontSize=38&fontColor=ffffff">
 </p><h1 align="center">
 𓆩𝐒𝐈𝐘𝐀𝐌𓆪
 </h1><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1300&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄;⚡+𝐈𝐓'𝐒+𝐀+𝐒𝐘𝐒𝐓𝐄𝐌;💎+𝐈𝐓'𝐒+𝐀+𝐕𝐈𝐒𝐈𝐎𝐍;🔥+𝐈𝐓'𝐒+𝐀+𝐁
-𝐑𝐀𝐍𝐃">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1300&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄;⚡+𝐈𝐓'𝐒+𝐀+𝐒𝐘𝐒𝐓𝐄𝐌;💎+𝐈𝐓'𝐒+𝐀+𝐕𝐈𝐒𝐈𝐎𝐍;🔥+𝐈𝐓'𝐒+𝐀+𝐁𝐑𝐀𝐍𝐃">
 </p><p align="center">
 <b>⚡ 𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐈𝐓𝐘 • 𝐏𝐀𝐒𝐒𝐈𝐎𝐍 • 𝐒𝐈𝐘𝐀𝐌 ⚡</b>
-</p>
-
-<!-- 💖 CUTE ANIMATED CHARACTERS WELCOMING AT THE BOTTOM -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczljZWhwbDhzZmIwaThnZGg3NWV3NHJ3eDVxdTNuYTF0ZjdrOHltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L33SThU3DQLZ3e5eA3/giphy.gif" width="120" title="Cute Moving Mascot 1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=FF00FF&center=true&vCenter=true&width=450&lines=💖+SEE+YOU+AGAIN!+💖;⚡+HAVE+A+GREAT+DAY!+⚡" alt="Good Bye Text">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0MGNldHJyNHVsaG51bnplZW4ybzhodmV1dGRvOHFxdjRzbWhvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u3lMThm5L3qu2fDDCu/giphy.gif" width="120" title="Cute Moving Mascot 2">
 </p>
